@@ -1,5 +1,7 @@
 # Worst Restaurant Finder
 
+![Preview](https://raw.githubusercontent.com/Eliott133/worst-restaurant-finder/refs/heads/main/src/screen/screely-1737933596434.png)
+
 Welcome to the Worst Restaurant Finder! This project aims to help users find the worst-rated restaurants in their area. Whether you're looking for a laugh or just want to avoid a bad dining experience, this app has you covered.
 
 ## Features
